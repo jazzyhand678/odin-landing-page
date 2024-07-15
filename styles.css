@@ -15,7 +15,7 @@ a {
     text-decoration: none;
 }
 
-nav, header {
+nav, header, footer {
     background-color: #1F2937;
 }
 
@@ -177,5 +177,13 @@ nav, header {
     color: #F9FAF8;
     border: 1px solid #F9FAF8;
     border-radius: 4px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #E5E7EB;
+    padding: 40px 0;
 }
 
