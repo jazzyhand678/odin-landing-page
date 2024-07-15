@@ -128,3 +128,25 @@ nav, header {
     min-height: 160px;
     border-radius: 12px;
 }
+
+.testimonial {
+    background-color: #E5E7EB;
+    padding: 80px 0;
+}
+
+.testimonial .container {
+    max-width: 800px;
+}
+
+.testimonial .container div {
+    display: flex;
+    justify-content: flex-end;
+    font-weight: bold;
+    padding-right: 40px;
+}
+
+.testimonial p {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+}
